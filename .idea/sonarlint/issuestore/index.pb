@@ -1,0 +1,27 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+[
++src/main/webapp/resources/src/paises/Api.js,5/1/51e162d8e4427533f841edcfb811af6f71d9fcca
+`
+0src/main/webapp/resources/src/commons/BaseApi.js,7/9/79fe9d7034274cc7b3f8a5db8e2a61e18f2a7b80
+^
+.src/main/webapp/resources/src/commons/Utils.js,3/8/38c6ddcd4247c59d5e7aa850eecefb0872e1f7bd
+t
+Dsrc/main/java/com/venturicg/poc/web/controller/PaisesController.java,e/0/e0afec9a5520678467353eb2819cd6d663fda13b
+z
+Jsrc/main/java/com/venturicg/poc/web/restcontroller/PaisRestController.java,b/9/b9a3d14cc5717f684684e0023d05bcdc26aee11d
+[
++src/main/webapp/resources/src/paises/App.js,0/0/008f7dbcf357ccef777b3d8e94cfc570519c9d7e
+^
+.src/main/webapp/resources/src/paises/Paises.js,8/a/8a1cb9a8fa9e8508c52deaa0dfc4f144f92910d1
+h
+8src/test/java/com/venturicg/poc/PocApplicationTests.java,d/8/d8977461377423a1a4c7bac88fa2aa03d6f3c39c
+g
+7src/main/java/com/venturicg/poc/repository/PaisDAO.java,6/b/6b413f2fa26fe4c8dd918a074a3da01aaba3569c
+q
+Asrc/main/java/com/venturicg/poc/service/impl/PaisServiceImpl.java,7/a/7a47aea41acf9f175998c23f5d620b336c491ec8
+g
+7src/main/java/com/venturicg/poc/service/model/Pais.java,d/7/d7e8a6b43fd74cf89a499344fe47d043cc903921
+j
+:src/main/java/com/venturicg/poc/service/PaisesService.java,8/e/8ea22d04793040f78fa4086278647f9c667a093e
